@@ -41,11 +41,9 @@ body{
 
 #button-cont{
   display: inline-block;
-  
   position: fixed;
   margin: 15px;
   top: 0;
-  z-index: 1000;
   background-color: rgb(20, 190, 28);
 }
 #button-cont button{
